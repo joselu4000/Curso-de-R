@@ -85,3 +85,5 @@ calculadora(2,"/",3) == 2/3
 
 # Pista: Usa operadores logicos y palabras para indicar la operacion a usar. 
 # Por ejemplo: "+" o "suma".
+
+# A continuación, procede a la carpeta de Lesson 3.
