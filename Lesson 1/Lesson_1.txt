@@ -1,0 +1,35 @@
+**Paso 1.**
+
+Busca en un navegador de Internet: R.
+
+Escoge la opción: The R Project.
+
+Dale al botón que dice: Aquí. En el listado busca tu país y posteriormente tu sistema operativo.
+
+Ahora a: install R for the first time.
+
+Después a: Download [Version] for Windows.
+
+Instálalo. 
+
+**Paso 2.**
+
+Busca en un navegador de Internet: R studio.
+
+Abre el enlace de: Posit.
+
+Dale a: DOWNLOAD RSTUDIO.
+
+Después, dale a: Download RStudio Desktop for Windows
+
+E instálalo.
+
+**Paso 3.**
+
+Otra opción es que uses este enlace para todo:
+
+https://posit.co/download/rstudio-desktop/
+
+Una vez todo instalado, busca entre tus aplicaciones Rstudio.
+
+Abre el archivo de R con nombre: Lesson_2.R, de la carpeta Lesson 2
